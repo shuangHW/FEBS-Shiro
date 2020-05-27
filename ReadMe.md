@@ -1,5 +1,9 @@
 ### 编辑器记得安装lombok插件0526-0527
 
+
+### tips
+https://github.com/jht385/FEBS-Shiro-jht
+
 ### FEBS-Shiro 2.0
 ![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
 ![https://img.shields.io/badge/springboot-2.2.1-yellow.svg?style=flat-square](https://img.shields.io/badge/springboot-2.2.1-yellow.svg?style=flat-square)
