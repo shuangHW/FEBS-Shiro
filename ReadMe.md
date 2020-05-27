@@ -1,4 +1,4 @@
-### 编辑器记得安装lombok插件0526
+### 编辑器记得安装lombok插件0526-0527
 
 ### FEBS-Shiro 2.0
 ![https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square](https://img.shields.io/badge/license-Apache%202.0-blue.svg?longCache=true&style=flat-square)
