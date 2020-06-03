@@ -31,6 +31,11 @@ public class DeptController {
 
     private final IDeptService deptService;
 
+    /**
+     * 部门下拉框-部门树（数据查询）
+     * @return
+     * @throws FebsException
+     */
     @GetMapping("select/tree")
     @ControllerEndpoint(exceptionMessage = "获取部门树失败")
     public List<DeptTree<Dept>> getDeptTree() throws FebsException {
